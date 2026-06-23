@@ -1,6 +1,6 @@
 # How to use
 
-- [Download the extension on Firefox](https://addons.mozilla.org/fr/firefox/addon/agechecker-net-bypass?utm_source=github_readme). It will only work on Firefox and firefox based browsers, like Tor or Librewolf. It will NOT work on Chrome, even if you sideload it.
+- [Download the extension on Firefox](https://addons.mozilla.org/addon/agechecker-net-bypass?utm_source=github_readme). It will only work on Firefox and firefox based browsers, like Tor or Librewolf. It will NOT work on Chrome, even if you sideload it.
 - Make sure it is allowed to run on all websites (or at least on the website you are trying to use it on), and in private browsing mode if you use it, from the extension settings.
 - Try to access a page gated by agechecker.net. The popup will not appear and you will be directly let through. You can try on [ageChecker's demo page](https://agechecker.net/demo)
 

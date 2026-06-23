@@ -19,8 +19,7 @@
     "permissions": [
         "webRequest",
         "webRequestBlocking",
-        "webRequestFilterResponse",
-        "storage"
+        "webRequestFilterResponse"
     ],
     "host_permissions": [
         "<all_urls>"
