@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "AgeVerif bypass",
-    "version": "1.3",
-    "description": "Skips the ageverif.net screen! Upload any photo and ID and the site will let you through.",
+    "name": "AgeChecker.net bypass",
+    "version": "1.0",
+    "description": "Skips the agechecker.net verification screen! You should never send your ID online.",
     "browser_specific_settings": {
         "gecko": {
           "id": "helloyanis@ageverif-bypass",

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1067" height="1067" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 6.5.3</desc>
+<defs>
+</defs>
+<g transform="matrix(0.9596 0 0 0.9596 496.4525 504.5474)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(234,51,35); fill-rule: nonzero; opacity: 1;"  transform=" translate(-480, 480)" d="M 340 -360 L 400 -360 L 400 -600 L 280 -600 L 280 -540 L 340 -540 L 340 -360 Z M 500 -360 L 600 -360 Q 617 -360 628.5 -371.5 Q 640 -383 640 -400 L 640 -560 Q 640 -577 628.5 -588.5 Q 617 -600 600 -600 L 500 -600 Q 483 -600 471.5 -588.5 Q 460 -577 460 -560 L 460 -400 Q 460 -383 471.5 -371.5 Q 483 -360 500 -360 Z M 520 -400 L 520 -460 L 580 -460 L 580 -400 L 520 -400 Z M 520 -500 L 520 -560 L 580 -560 L 580 -500 L 520 -500 Z M 200 -120 Q 167 -120 143.5 -143.5 Q 120 -167 120 -200 L 120 -760 Q 120 -793 143.5 -816.5 Q 167 -840 200 -840 L 760 -840 Q 793 -840 816.5 -816.5 Q 840 -793 840 -760 L 840 -200 Q 840 -167 816.5 -143.5 Q 793 -120 760 -120 L 200 -120 Z M 200 -200 L 760 -200 L 760 -760 L 200 -760 L 200 -200 Z M 200 -760 L 200 -200 L 200 -760 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(0.7706 0 0 0.7706 724.0994 801.2682)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(117,251,76); fill-rule: nonzero; opacity: 1;"  transform=" translate(-480, 480)" d="M 660 -240 L 660 -720 L 740 -720 L 740 -240 L 660 -240 Z M 220 -240 L 220 -720 L 580 -480 L 220 -240 Z M 300 -480 Z M 300 -390 L 436 -480 L 300 -570 L 300 -390 Z" stroke-linecap="round" />
+</g>
+</svg>
