@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Age verification bypass",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Skips the verification screens of various age verification platforms! Currently supports agechecker.net and ageverif.com",
     "author": "🦊 helloyanis",
     "developer": {
